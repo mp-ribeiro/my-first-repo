@@ -1,0 +1,35 @@
+commit 229c6160c25103dcfc6f633c9489a33c3ba22a4a
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 19:08:19 2023 -0300
+
+    mod ignore ronaldo.txt
+
+commit 43c5fd777e5134d81bb222b1d8f2e0a12f7ba96f
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 19:03:39 2023 -0300
+
+    added gitignore
+
+commit a75628815e3cae745e2d0c2d30b37d10ca0fcfab
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 19:01:35 2023 -0300
+
+    add third line to welcome.txt
+
+commit a003c736533bac7c883596b946390ef42eaa628f
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 18:02:16 2023 -0300
+
+    deleted one file, modified other
+
+commit 2e16557c5e44ad1dc7d3ad2dfe5e9a57f869cb12
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 17:50:39 2023 -0300
+
+    added two files
+
+commit dbda206086229952a298ed10aa085b363656e7f3
+Author: mp-ribeiro <mpribeiro8@hotmail.com>
+Date:   Tue Jan 31 17:45:31 2023 -0300
+
+    added welcome.txt
